@@ -35,7 +35,7 @@ juego_monty_hall(cambio=FALSE)
 
 me_quedo <- 0
 me_cambio <- 0
-for (i in 1:10000){
+for (i in 1:1000){
   me_quedo <- me_quedo + juego_monty_hall(cambio=FALSE)
   me_cambio <- me_cambio + juego_monty_hall(cambio=TRUE)
 }
