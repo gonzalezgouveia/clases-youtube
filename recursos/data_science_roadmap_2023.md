@@ -133,6 +133,7 @@ Una vez finalizado el bloque 2 ya tienes el nivel de un Data Analyst Junior que 
 * Kanban, Scrum
 * Tickets de Jira
 * Documentación en Confluence
+* Unit Testing
 
 
 
