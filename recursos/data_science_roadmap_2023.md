@@ -49,3 +49,97 @@ Tutoriales de Real Python https://realpython.com/tutorials/data-science/
 * Revisar outliers
 * Modificar columnas
 
+### Matemáticas
+* Números reales y plano cartesiano
+* Rectas y curvas cónicas
+* Funciones cómo modelos
+
+Recursos:
+Lista de matemáticas básicas para ML https://www.youtube.com/watch?v=oYMpU07q3hw&list=PLbDLkhJ5sFvByO8E8MIWN2iYhKj0pr1mz
+Libro Precálculo, Stewart, Redlin y Larson
+Libro Cálculo de una variable, James Stewart
+
+### Estadística
+* Estadística descriptiva
+* Distribuciones de probabilidad
+* Test de hipótesis y p-valores
+
+Recursos: 
+Libro PRACTICAL STATISTICS FOR DATA SCIENTISTS: 50+ Essential Concepts Using R and Python
+Libro AN INTRODUCTION TO STATISTICAL LEARNING: with Applications in R
+Libro ALL OF STATISTICS: A Concise Course in Statistical Inference - Larry Wasserman
+
+Una vez finalizado el bloque 1 ya tienes una base solida. Esto debería tomarte entre 1 y 3 meses dependiendo de tu formación previa. En este punto no te recomiendo buscar trabajo aún. Un idea para consolidar el trabajo es hacer un proyecto de ciencia de datos básico utilizando Kaggle.
+
+## Bloque 2 - Data Analytics
+
+### Exploratory Data Analysis (EDA)
+* Visualización de datos
+* Gráficos de pastel, barra, puntos
+* Realizar preguntas de interés
+* Agrupación y resumen de tablas
+* Storytelling con datos
+
+### Programación para EDA
+* Pyhon: Seaborn, Plotly, Bokeh
+* Pandas avanzado: hacer agrupaciones, trabajar con fechas
+* Power BI o Tableau
+
+Recursos:
+Catalogo de gráficos en Python https://www.python-graph-gallery.com/
+
+### Bases de datos (BBDD)
+* Teoría de bases de datos relacional
+* Modelo de datos, Diagrama ER
+* Clausulas, select, group by, joins
+* BBDD relacional vs no relacional
+* ETL: extract-transform-load
+
+Recursos:
+https://www.youtube.com/watch?v=qyHLHfk9cVE&list=PLbDLkhJ5sFvDZv19ENIXaD_aMnWbGWrSn
+https://www.sqlitetutorial.net/
+
+### Programación para BBDD
+* SQL: sqlite, postgresql, mysql, snowflake (opcional)
+* Python: sqlalchemy
+* NoSQL: MongoDB
+
+Una vez finalizado el bloque 2 ya tienes el nivel de un Data Analyst Junior que recién empieza. Esto debería tomarte entre 4 y 6 meses. En este punto puedes, si quieres, empezar a buscar trabajo. Es buena idea tener un portafolio con proyecto avanzados con datos propios o de terceros.
+
+## Bloque 3 - MLOps
+
+### Machine Learning
+* Alegra lineal: vectores y matrices
+* Cálculo diferencial
+* Regresión, clasificación, clustering
+* Árboles de decisión, redes neuronales
+
+### Python
+* Sklearn
+* Statsmodels
+* Pytorch, TensorFlow
+* XGBoost
+
+### Programación avanzada
+* OOP: object-oriented programming
+* Packages en python
+* GIT, github, ramas
+* Desarrollo web
+### Métodologías de trabajo
+* Agile
+* Kanban, Scrum
+* Tickets de Jira
+* Documentación en Confluence
+
+
+
+
+
+
+
+
+
+
+
+
+
