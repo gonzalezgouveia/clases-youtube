@@ -100,6 +100,7 @@ Recursos:
 Recursos:
 * Lista de videos SQL https://www.youtube.com/watch?v=qyHLHfk9cVE&list=PLbDLkhJ5sFvDZv19ENIXaD_aMnWbGWrSn
 * Tutorial para sqlite https://www.sqlitetutorial.net/
+* Tutorial SQL https://www.w3schools.com/sql/
 
 ### Programación para BBDD
 * SQL: sqlite, postgresql, mysql, snowflake (opcional)
