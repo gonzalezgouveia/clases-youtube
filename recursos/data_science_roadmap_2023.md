@@ -41,10 +41,10 @@ La idea de este bloque es que te hagas con los conocimientos fundamentales para 
 * Estructuras de control: if, for, while
 
 Recurso sugerido:
-Curso gratuito de Python en YouTube https://www.youtube.com/watch?v=fYZsuJb5VqE&list=PLbDLkhJ5sFvBJC6XnRSHMltAdKXI7Drw9
-Libro PYTHON FOR DATA ANALYSIS 3E: Data Wrangling with pandas, NumPy, and Jupyter
-Libro PYTHON DATA SCIENCE HANDBOOK: Essential Tools for Working with Data
-Tutoriales de Real Python https://realpython.com/tutorials/data-science/
+* Curso gratuito de Python en YouTube https://www.youtube.com/watch?v=fYZsuJb5VqE&list=PLbDLkhJ5sFvBJC6XnRSHMltAdKXI7Drw9
+* Libro PYTHON FOR DATA ANALYSIS 3E: Data Wrangling with pandas, NumPy, and Jupyter
+* Libro PYTHON DATA SCIENCE HANDBOOK: Essential Tools for Working with Data
+* Tutoriales de Real Python https://realpython.com/tutorials/data-science/
 
 ### Aprende Data Wrangling
 * Quitar duplicados
@@ -57,9 +57,9 @@ Tutoriales de Real Python https://realpython.com/tutorials/data-science/
 * Funciones cómo modelos
 
 Recursos:
-Lista de matemáticas básicas para ML https://www.youtube.com/watch?v=oYMpU07q3hw&list=PLbDLkhJ5sFvByO8E8MIWN2iYhKj0pr1mz
-Libro Precálculo, Stewart, Redlin y Larson
-Libro Cálculo de una variable, James Stewart
+* Lista de matemáticas básicas para ML https://www.youtube.com/watch?v=oYMpU07q3hw&list=PLbDLkhJ5sFvByO8E8MIWN2iYhKj0pr1mz
+* Libro Precálculo, Stewart, Redlin y Larson
+* Libro Cálculo de una variable, James Stewart
 
 ### Estadística
 * Estadística descriptiva
@@ -67,9 +67,9 @@ Libro Cálculo de una variable, James Stewart
 * Test de hipótesis y p-valores
 
 Recursos: 
-Libro PRACTICAL STATISTICS FOR DATA SCIENTISTS: 50+ Essential Concepts Using R and Python
-Libro AN INTRODUCTION TO STATISTICAL LEARNING: with Applications in R
-Libro ALL OF STATISTICS: A Concise Course in Statistical Inference - Larry Wasserman
+* Libro PRACTICAL STATISTICS FOR DATA SCIENTISTS: 50+ Essential Concepts Using R and Python
+* Libro AN INTRODUCTION TO STATISTICAL LEARNING: with Applications in R
+* Libro ALL OF STATISTICS: A Concise Course in Statistical Inference - Larry Wasserman
 
 Una vez finalizado el bloque 1 ya tienes una base solida. Esto debería tomarte entre 1 y 3 meses dependiendo de tu formación previa. En este punto no te recomiendo buscar trabajo aún. Un idea para consolidar el trabajo es hacer un proyecto de ciencia de datos básico utilizando Kaggle.
 
@@ -88,7 +88,7 @@ Una vez finalizado el bloque 1 ya tienes una base solida. Esto debería tomarte 
 * Power BI o Tableau
 
 Recursos:
-Catalogo de gráficos en Python https://www.python-graph-gallery.com/
+* Catalogo de gráficos en Python https://www.python-graph-gallery.com/
 
 ### Bases de datos (BBDD)
 * Teoría de bases de datos relacional
@@ -98,8 +98,8 @@ Catalogo de gráficos en Python https://www.python-graph-gallery.com/
 * ETL: extract-transform-load
 
 Recursos:
-https://www.youtube.com/watch?v=qyHLHfk9cVE&list=PLbDLkhJ5sFvDZv19ENIXaD_aMnWbGWrSn
-https://www.sqlitetutorial.net/
+* Lista de videos SQL https://www.youtube.com/watch?v=qyHLHfk9cVE&list=PLbDLkhJ5sFvDZv19ENIXaD_aMnWbGWrSn
+* Tutorial para sqlite https://www.sqlitetutorial.net/
 
 ### Programación para BBDD
 * SQL: sqlite, postgresql, mysql, snowflake (opcional)
