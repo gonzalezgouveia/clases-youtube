@@ -1,3 +1,0 @@
-#titulo
-
-En esta guía...
