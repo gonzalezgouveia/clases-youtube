@@ -6,7 +6,7 @@ Este roadmap surge de la necesidad de condensar el camino de ciencia de datos y 
 
 Soy Rafa y trabajo como científico de datos desde 2017. Que esta guia te sea de mucha útilidad
 
-![data science Roadmap 2023](https://user-images.githubusercontent.com/20340577/212709993-7a63c842-da8b-41e6-bcac-78a4e0a77382.png)
+![data science roadmap 2023](https://user-images.githubusercontent.com/20340577/212917908-70660d2d-7d56-4f69-8fef-10589a03c3cb.png)
 
 ## Warnings
 
